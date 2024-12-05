@@ -1,3 +1,8 @@
+# library needed for project
+
+1) bootstrap
+2) react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
