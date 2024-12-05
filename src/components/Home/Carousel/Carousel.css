@@ -1,0 +1,11 @@
+.arrow:hover {
+    cursor: pointer;
+}
+
+.slide {
+    width: 100%;
+}
+
+.slide-hidden {
+    display: none;
+}
